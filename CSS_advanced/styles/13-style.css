@@ -46,6 +46,9 @@ a:hover{
 a:active{
     background-color: var(--color-light-grey);
 }
+a:visited{
+    font-style: italic;
+}
 
   
 .visually-hidden{
