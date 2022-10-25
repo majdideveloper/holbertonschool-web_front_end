@@ -206,6 +206,16 @@ template {
     --section-title-color: var(--color-black)
 }
 
+*,
+*:before,
+*:after {
+
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
 html {
     scroll-behavior: smooth;
     font-size: 62.5%;
